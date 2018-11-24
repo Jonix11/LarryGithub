@@ -2,4 +2,4 @@
 
 La historia de un hacker excepcional.
 
-**Jon Gonzalez**
+**Jon Gonzalez** git lover
