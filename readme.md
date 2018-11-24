@@ -2,4 +2,4 @@
 
 La historia de un hacker excepcional.
 
-**Jon Gonzalez** git lover
+**Jon Gonzalez**, git lover & Larry Plotter fan.
